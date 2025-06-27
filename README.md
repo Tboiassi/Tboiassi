@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning javascript and React 
+- 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## skills
--- programming language -- HTML, CSS and Javascript
--- Framework --
+-- programming language -- Dart, Flutter and Python
+-- Framework -- Flutter
 - tools:-
 
 ## Projects
