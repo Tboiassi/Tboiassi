@@ -51,9 +51,9 @@ I may just be starting, but I'm determined to grow into a developer that builds 
 ---
 
 ## 📫 Let's Connect  
-- Email: *[Your Email Here]*  
+- Email: *godstreasureassi@gmail.com*  
 - LinkedIn: *[Your LinkedIn Here]*  
-- Twitter/X: *[Your Twitter/X Here]*  
+- Twitter/X: *https://x.com/Treasure1617673* 
 
 ---
 
