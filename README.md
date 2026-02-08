@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Treasure Assi!  
+# 👋 Hi there, I'm God'streasure Assi!  
 
 <div align="center">  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">  
@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a passionate beginner on a mission to master **Front-End Mobile Development** and build stunning, user-friendly apps for the world to enjoy.  
+I'm a passionate beginner on a mission to master **Mobile-App Development** and build stunning, user-friendly apps for the world to enjoy.  
 
 My goal is to bring creative and interactive ideas to life using the power of code, design, and consistency.  
 
@@ -16,8 +16,8 @@ I may just be starting, but I'm determined to grow into a developer that builds 
 ---
 
 ## 💡 Skills I'm Learning  
-- 🌐 **HTML5**, **CSS3**, **JavaScript**  
-- ⚛️ **React Native** *(Current Focus)*  
+- 🌐 **Dart** **Flutter**  
+- ⚛️ **Dart** *(Current Focus)*  
 - 🎨 **Figma** for UI/UX Design  
 - 📱 Mobile-first Design Principles  
 - 🧩 Responsive Components  
@@ -52,8 +52,10 @@ I may just be starting, but I'm determined to grow into a developer that builds 
 
 ## 📫 Let's Connect  
 - Email: *godstreasure72@gmail.com*  
-- LinkedIn: *[Your LinkedIn Here]*  
-- Twitter/X: *https://x.com/Treasure1617673* 
+- LinkedIn: *https://www.linkedin.com/in/god-streasure-joshua-assi-b1b68a332/*  
+- Twitter/X: *https://x.com/Treasure1617673*
+- Instagram: *https://www.instagram.com/godstreasureassi/*
+- Facebook: *https://web.facebook.com/profile.php?id=61587306693234*
 
 ---
 
