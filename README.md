@@ -18,7 +18,8 @@ I may just be starting, but I'm determined to grow into a developer that builds 
 ## 💡 Skills I'm Learning  
 - 🌐 **Dart** **Flutter**  
 - ⚛️ **Dart** *(Current Focus)*  
-- 🎨 **Figma** for UI/UX Design  
+- 🎨 **Figma** for UI/UX Design
+- ⛏️ **Android Studio || Visual Studio Code 
 - 📱 Mobile-first Design Principles  
 - 🧩 Responsive Components  
 - 🛠️ Git & GitHub  
