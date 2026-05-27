@@ -7,17 +7,17 @@
 ---
 
 ## 🚀 About Me  
-I'm a passionate beginner on a mission to master **Mobile-App Development** and build stunning, user-friendly apps for the world to enjoy.  
+I'm a passionate beginner on a mission to master **Web Development** and build stunning, user-friendly websites for the world to enjoy.  
 
 My goal is to bring creative and interactive ideas to life using the power of code, design, and consistency.  
 
-I may just be starting, but I'm determined to grow into a developer that builds apps people love!  
+I may just be starting, but I'm determined to grow into a developer that builds web-applications people love!  
 
 ---
 
 ## 💡 Skills I'm Learning  
-- 🌐 **Dart** **Flutter**  
-- ⚛️ **Dart** *(Current Focus)*  
+- 🌐 **Web Development**  
+- ⚛️ **Javascript** *(Current Focus)*  
 - 🎨 **Figma** for UI/UX Design
 - ⛏️ **Android Studio || Visual Studio Code 
 - 📱 Mobile-first Design Principles  
@@ -27,16 +27,16 @@ I may just be starting, but I'm determined to grow into a developer that builds 
 ---
 
 ## 🎯 My Current Goals  
-✅ Learn and build responsive mobile interfaces  
+✅ Learn and build responsive web interfaces  
 ✅ Create reusable components  
-✅ Master the basics of React Native  
-✅ Work on beginner-friendly mobile projects  
+✅ Master the basics of Javascript  
+✅ Work on beginner-friendly web projects  
 ✅ Improve my design skills for better user experience  
 
 ---
 
 ## 🧑‍💻 What I’m Working On  
-- Setting up my first mobile development projects  
+- Setting up my first web development projects  
 - Building simple UI components  
 - Collaborating with other beginner developers  
 - Learning to make apps responsive and smooth  
@@ -46,7 +46,7 @@ I may just be starting, but I'm determined to grow into a developer that builds 
 ## 💬 Ask Me About  
 - My beginner journey  
 - How I'm learning step-by-step  
-- Front-end mobile development resources  
+- Front-end web development resources  
 - How you can collaborate with me on simple projects  
 
 ---
@@ -57,6 +57,7 @@ I may just be starting, but I'm determined to grow into a developer that builds 
 - Twitter/X: *https://x.com/Treasure1617673*
 - Instagram: *https://www.instagram.com/godstreasureassi/*
 - Facebook: *https://web.facebook.com/profile.php?id=61587306693234*
+- LinkedIn: *https://www.linkedin.com/in/god-streasure-joshua-assi-b1b68a332/*
 
 ---
 
