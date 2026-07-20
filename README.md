@@ -57,7 +57,7 @@ I may just be starting, but I'm determined to grow into a developer that builds 
 - Twitter/X: *https://x.com/Treasure1617673*
 - Instagram: *https://www.instagram.com/godstreasureassi/*
 - Facebook: *https://web.facebook.com/profile.php?id=61587306693234*
-- LinkedIn: *https://www.linkedin.com/in/god-streasure-joshua-assi-b1b68a332/*
+- LinkedIn: *https://www.linkedin.com/in/god-streasure-assi-b1b68a332/*
 
 ---
 
