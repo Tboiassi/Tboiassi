@@ -19,7 +19,7 @@ I may just be starting, but I'm determined to grow into a developer that builds 
 - 🌐 **Web Development**  
 - ⚛️ **Javascript** *(Current Focus)*  
 - 🎨 **Figma** for UI/UX Design
-- ⛏️ **Android Studio || Visual Studio Code 
+- ⛏️ **Android Studio || Visual Studio Code || Zed || Antigravity 
 - 📱 Mobile-first Design Principles  
 - 🧩 Responsive Components  
 - 🛠️ Git & GitHub  
